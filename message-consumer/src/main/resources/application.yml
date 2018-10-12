@@ -1,0 +1,5 @@
+enable-swagger: true
+server:
+  port: 8081
+kafka:
+  bootstrapAddress: localhost:9092
